@@ -23,7 +23,7 @@ Este é uma aplicação web desenvolvida em **PHP Puro (Vanilla)** para gerencia
 * **Gestão do Usuário:** O cliente pode visualizar seus agendamentos ("Meus Agendamentos"), editar ou cancelar.
 * **Painel Administrativo:** Área restrita para visualização, edição e exclusão de todos os agendamentos do sistema.
 
-## 📸 Screenshots
+## 📸 Fotos do projeto
 
 | Tela Inicial | Tela de Agendamento |
 |:---:|:---:|
