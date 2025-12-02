@@ -27,7 +27,7 @@ Este é uma aplicação web desenvolvida em **PHP Puro (Vanilla)** para gerencia
 
 | Tela Inicial | Tela de Agendamento |
 |:---:|:---:|
-| <img src="fotos/inicio.pngh" width="400"> | <img src="fotos/agendar.png" width="400"> |
+| <img src="fotos/inicio.png" width="400"> | <img src="fotos/agendar.png" width="400"> |
 
 | Tela de Login | Tela de Cadastro |
 |:---:|:---:|
