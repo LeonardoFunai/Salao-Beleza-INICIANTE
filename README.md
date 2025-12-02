@@ -27,11 +27,11 @@ Este é uma aplicação web desenvolvida em **PHP Puro (Vanilla)** para gerencia
 
 | Tela Inicial | Tela de Agendamento |
 |:---:|:---:|
-| <img src="/fotos/inicio.jpg" width="400"> | <img src="agendar.jpg" width="400"> |
+| <img src="fotos/inicio.jpg" width="400"> | <img src="fotos/agendar.jpg" width="400"> |
 
 | Tela de Login | Tela de Cadastro |
 |:---:|:---:|
-| <img src="login.jpg" width="400"> | <img src="cadastro.jpg" width="400"> |
+| <img src="fotos/login.jpg" width="400"> | <img src="fotos/cadastro.jpg" width="400"> |
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -61,4 +61,4 @@ Como este é um projeto legado em PHP simples, você precisará de um servidor l
 
 ---
 
-Desenvolvido por [Seu Nome] - [Link para seu LinkedIn]
+Desenvolvido por Leonardo Kenji Funai.
